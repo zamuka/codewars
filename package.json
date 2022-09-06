@@ -1,0 +1,27 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
+    "@types/jest": "27.5.0",
+    "jest": "28.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch ./tasks/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamuka/codewars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zamuka/codewars/issues"
+  },
+  "homepage": "https://github.com/zamuka/codewars#readme"
+}
